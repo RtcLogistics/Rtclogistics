@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**RtcLogistics/Rtclogistics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[RTCLOGISTIC] (https://www.rtclogistics.in/index.htm)
 
 Here are some ideas to get you started:
 
